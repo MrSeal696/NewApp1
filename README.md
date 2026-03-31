@@ -40,7 +40,7 @@
 
 ### 1. Список задач
 
-![Список задач]
+
 <img width="1280" height="676" alt="изображение" src="https://github.com/user-attachments/assets/9b98d6ee-54ce-48c1-9199-c02d8b0aa4b2" />
 
 
@@ -50,7 +50,7 @@
 
 ### 2. Добавление новой задачи
 
-![Добавление задачи]
+
 <img width="1280" height="675" alt="изображение" src="https://github.com/user-attachments/assets/6212ce4b-5ead-4a1b-a236-95eff560d76b" />
 
 
@@ -60,7 +60,7 @@
 
 ### 3. Статистика и отчёты
 
-![Отчеты]
+
 <img width="1280" height="678" alt="изображение" src="https://github.com/user-attachments/assets/476a1b04-eaa6-4828-aba7-e28853737cba" />
 
 
@@ -70,7 +70,7 @@
 
 ### 4. Настройки приложения
 
-![Настройки]
+
 <img width="1280" height="685" alt="изображение" src="https://github.com/user-attachments/assets/1addb2a9-df7a-4699-9f0e-4475f7402f08" />
 
 
