@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:NewApp1.Pages"
+    x:Class="NewApp1.AppShell">
+
+    <FlyoutItem Title="Задачи">
+        <ShellContent ContentTemplate="{DataTemplate pages:TaskListPage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Добавить">
+        <ShellContent ContentTemplate="{DataTemplate pages:AddTaskPage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Отчеты">
+        <ShellContent ContentTemplate="{DataTemplate pages:ReportsPage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Настройки">
+        <ShellContent ContentTemplate="{DataTemplate pages:SettingsPage}" />
+    </FlyoutItem>
+
+</Shell>
