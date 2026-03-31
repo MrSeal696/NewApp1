@@ -40,7 +40,8 @@
 
 ### 1. Список задач
 
-![Список задач]<img width="1280" height="676" alt="изображение" src="https://github.com/user-attachments/assets/9b98d6ee-54ce-48c1-9199-c02d8b0aa4b2" />
+![Список задач]
+<img width="1280" height="676" alt="изображение" src="https://github.com/user-attachments/assets/9b98d6ee-54ce-48c1-9199-c02d8b0aa4b2" />
 
 
 Описание: Здесь отображается список всех задач с возможностью их редактирования и удаления.
@@ -49,7 +50,8 @@
 
 ### 2. Добавление новой задачи
 
-![Добавление задачи]<img width="1280" height="675" alt="изображение" src="https://github.com/user-attachments/assets/6212ce4b-5ead-4a1b-a236-95eff560d76b" />
+![Добавление задачи]
+<img width="1280" height="675" alt="изображение" src="https://github.com/user-attachments/assets/6212ce4b-5ead-4a1b-a236-95eff560d76b" />
 
 
 Описание: Страница для создания новой задачи. Можно указать название, описание и приоритет.
@@ -58,7 +60,8 @@
 
 ### 3. Статистика и отчёты
 
-![Отчеты]<img width="1280" height="678" alt="изображение" src="https://github.com/user-attachments/assets/476a1b04-eaa6-4828-aba7-e28853737cba" />
+![Отчеты]
+<img width="1280" height="678" alt="изображение" src="https://github.com/user-attachments/assets/476a1b04-eaa6-4828-aba7-e28853737cba" />
 
 
 Описание: Просмотр отчётов и статистики по задачам. Здесь можно видеть количество выполненных и невыполненных задач.
@@ -67,7 +70,8 @@
 
 ### 4. Настройки приложения
 
-![Настройки]<img width="1280" height="685" alt="изображение" src="https://github.com/user-attachments/assets/1addb2a9-df7a-4699-9f0e-4475f7402f08" />
+![Настройки]
+<img width="1280" height="685" alt="изображение" src="https://github.com/user-attachments/assets/1addb2a9-df7a-4699-9f0e-4475f7402f08" />
 
 
 Описание: Здесь реализован доступ к папке приложения и настройкам приложения.
